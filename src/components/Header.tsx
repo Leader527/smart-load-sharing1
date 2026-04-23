@@ -14,7 +14,7 @@ export default function Header() {
           </div>
           <div>
             <h1 className="text-2xl md:text-3xl font-bold text-white tracking-tight">
-              AI-Powered Logistics Optimization
+              Logistics Optimization
             </h1>
             <p className="text-slate-400 text-sm md:text-base mt-0.5">
               Smart Backhaul Load Matching System
